@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-11-14T01:07:54.479Z",
+  "platforms": [
+    "cursor",
+    "vscode",
+    "windsurf",
+    "codex"
+  ],
+  "generatedBy": "GitHub Actions",
+  "source": "https://github.com/upstash/context7"
+}
